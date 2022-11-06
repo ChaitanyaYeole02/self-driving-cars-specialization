@@ -41,7 +41,7 @@ CTO and Founder of Oxbotica: [Paul Newman](https://uk.linkedin.com/in/paul-newma
 ##### Experts
 Instructor: [Steven Waslander](https://scholar.google.com/citations?user=jY_Bcd8AAAAJ&hl=en)\
 Instructor: [Jonathan Kelly](https://scholar.google.co.in/citations?user=KtSR8_0AAAAJ&hl=en)\
-Firmware Engineer: [Diana Burgess ](https://www.linkedin.com/in/dkvandenberg/https://www.linkedin.com/in/dkvandenberg/)\
+Firmware Engineer: [Diana Burgess ](https://www.linkedin.com/in/dkvandenberg/)\
 Software Engineer: Winston Yu\
 Autonomous System Architect: Andy Huang\
 CTO and Founder of Oxbotica: [Paul Newman](https://uk.linkedin.com/in/paul-newman-13457b15b)
