@@ -1,4 +1,4 @@
-# Self Driving Cars Specialization on Coursera
+# Self Driving-Cars Specialization on Coursera
 
 Instructor: [Steven Waslander](https://scholar.google.com/citations?user=jY_Bcd8AAAAJ&hl=en)
 Instructor: [Jonathan Kelly](https://scholar.google.co.in/citations?user=KtSR8_0AAAAJ&hl=en)
@@ -9,7 +9,7 @@ CTO and Founder of Oxbotica: [Paul Newman](https://uk.linkedin.com/in/paul-newma
 
 ## Introduction
 
-This repo contains all my code base for the course under the Self-Driving Cars Specialization. [Self-Driving Cars Specializatio on Coursera]https://www.coursera.org/specializations/self-driving-cars).
+This repo contains all my code base for the course under the Self-Driving Cars Specialization. [Self-Driving Cars Specializatio on Coursera](https://www.coursera.org/specializations/self-driving-cars).
 
 ## Programming Assignments and Quizzes
 
