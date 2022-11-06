@@ -1,7 +1,7 @@
 # Self Driving-Cars Specialization on Coursera
 
 ## Introduction
-This repo contains all my code base for the courses under the Self-Driving Cars Specialization. [Self-Driving Cars Specializatio on Coursera](https://www.coursera.org/specializations/self-driving-cars).
+This repo contains all my code base for the courses under the Self-Driving Cars Specialization. [Self-Driving Cars Specialization on Coursera](https://www.coursera.org/specializations/self-driving-cars).
 
 ## Programming Assignments and Quizzes
 
