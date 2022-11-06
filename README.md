@@ -1,19 +1,20 @@
 # Self Driving-Cars Specialization on Coursera
 
-Instructor: [Steven Waslander](https://scholar.google.com/citations?user=jY_Bcd8AAAAJ&hl=en)
-Instructor: [Jonathan Kelly](https://scholar.google.co.in/citations?user=KtSR8_0AAAAJ&hl=en)
-Firmware Engineer: [Diana Burgess ](https://www.linkedin.com/in/dkvandenberg/https://www.linkedin.com/in/dkvandenberg/)
-Software Engineer: [Winston Yu]()
-Autonomous System Architect: [Andy Huang]()
-CTO and Founder of Oxbotica: [Paul Newman](https://uk.linkedin.com/in/paul-newman-13457b15b)
-
 ## Introduction
-
 This repo contains all my code base for the course under the Self-Driving Cars Specialization. [Self-Driving Cars Specializatio on Coursera](https://www.coursera.org/specializations/self-driving-cars).
 
 ## Programming Assignments and Quizzes
 
 ### Course 1: Introduction to Self-Driving Cars
+
+##### Experts
+Instructor: [Steven Waslander](https://scholar.google.com/citations?user=jY_Bcd8AAAAJ&hl=en)\
+Instructor: [Jonathan Kelly](https://scholar.google.co.in/citations?user=KtSR8_0AAAAJ&hl=en)\
+Firmware Engineer: [Diana Burgess ](https://www.linkedin.com/in/dkvandenberg/https://www.linkedin.com/in/dkvandenberg/)\
+Software Engineer: [Winston Yu]()\
+Autonomous System Architect: [Andy Huang]()\
+CTO and Founder of Oxbotica: [Paul Newman](https://uk.linkedin.com/in/paul-newman-13457b15b)
+
 ##### Week 1
   - [Lesson 1: Practice Quiz ](https://github.com/chaitanya-yeole/self-driving-cars-specialization/blob/main/introduction-to-self-driving-cars/W1/Lesson%201%20-%20Practice%20Quiz.pdf)
   - [Lesson 2: Practice Quiz ](https://github.com/chaitanya-yeole/self-driving-cars-specialization/blob/main/introduction-to-self-driving-cars/W1/Lesson%202%20-%20Practice%20Quiz.pdf)
