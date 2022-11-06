@@ -13,7 +13,7 @@ This repo contains all my code base for the course under the Self-Driving Cars S
 
 ## Programming Assignments and Quizzes
 
-#### Course 1: Introduction to Self-Driving Cars
+### Course 1: Introduction to Self-Driving Cars
 ##### Week 1
   - [Lesson 1: Practice Quiz ](https://github.com/chaitanya-yeole/self-driving-cars-specialization/blob/main/introduction-to-self-driving-cars/W1/Lesson%201%20-%20Practice%20Quiz.pdf)
   - [Lesson 2: Practice Quiz ](https://github.com/chaitanya-yeole/self-driving-cars-specialization/blob/main/introduction-to-self-driving-cars/W1/Lesson%202%20-%20Practice%20Quiz.pdf)
@@ -35,7 +35,7 @@ This repo contains all my code base for the course under the Self-Driving Cars S
 ##### Week 6
  - [Module 5: Graded Quiz](https://github.com/chaitanya-yeole/self-driving-cars-specialization/blob/main/introduction-to-self-driving-cars/W6/Module%206%20-%20Graded%20Quiz.pdf)
 
-#### Course 2: State Estimation and Localization for Self-Driving Cars
+### Course 2: State Estimation and Localization for Self-Driving Cars
 ##### Week 1
   - [Lesson 1: Practice Quiz ](https://github.com/chaitanya-yeole/self-driving-cars-specialization/blob/main/state-estimation-and-localization-for-self-driving-cars/W1/Lesson%201%20-%20Practice%20Quiz.pdf)
   - [Lesson 1: Practice Notebook - Least Squares](https://github.com/chaitanya-yeole/self-driving-cars-specialization/blob/main/state-estimation-and-localization-for-self-driving-cars/W1/Lesson%201%20-%20Practice%20Notebook%20Least%20Squares.ipynb)
@@ -55,7 +55,7 @@ This repo contains all my code base for the course under the Self-Driving Cars S
 ##### Week 5
  - [Programming Assignment 1: Vehicle State Estimation on a Roadway Model](https://github.com/chaitanya-yeole/self-driving-cars-specialization/blob/main/state-estimation-and-localization-for-self-driving-cars/W5/final_project/es_ekf.ipynb)
 
-#### Course 3: Visual Perception for Self-Driving Cars
+### Course 3: Visual Perception for Self-Driving Cars
 ##### Week 1
  - [Practice Programming Assignment: Applying Stereo Depth to a Driving Scenario Model](https://github.com/chaitanya-yeole/self-driving-cars-specialization/blob/main/visual-perception-for-self-driving-cars/W1/Applying_Stereo_Depth_to_a_Driving_Scenario_practice_assignment.ipynb)
  - [Module 1: Graded Quiz](https://github.com/chaitanya-yeole/self-driving-cars-specialization/blob/main/visual-perception-for-self-driving-cars/W1/Module%201%20-%20Graded%20Quiz.pdf)
